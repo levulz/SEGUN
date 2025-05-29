@@ -10,11 +10,14 @@
 
 # hlsearch on (H) or off (h):
 ~H
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
 :q!
-|2,0,1748398545,,"q!"
+|2,0,1748530770,,"q!"
 :wq!
-|2,0,1748398531,,"wq!"
+|2,0,1748530676,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,28 +28,169 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"1	LINE	0
+	.git/                                           0 Thu May 29 14:54:15 2025
+|3,0,1,1,1,0,1748530544,".git/                                           0 Thu May 29 14:54:15 2025"
+"2	LINE	0
+	../                                             0 Thu May 29 14:55:30 2025
+|3,0,2,1,1,0,1748530544,"../                                             0 Thu May 29 14:55:30 2025"
+"3	LINE	0
+	./                                              0 Thu May 29 14:55:30 2025
+|3,0,3,1,1,0,1748530544,"./                                              0 Thu May 29 14:55:30 2025"
+"4	LINE	0
+	.git/                                           0 Thu May 29 14:54:15 2025
+|3,0,4,1,1,0,1748530543,".git/                                           0 Thu May 29 14:54:15 2025"
+"5	LINE	0
+	../                                             0 Thu May 29 14:55:30 2025
+|3,0,5,1,1,0,1748530543,"../                                             0 Thu May 29 14:55:30 2025"
+"6	LINE	0
+	./                                              0 Thu May 29 14:55:30 2025
+|3,0,6,1,1,0,1748530543,"./                                              0 Thu May 29 14:55:30 2025"
+"7	LINE	0
+	.git/                                           0 Thu May 29 14:54:15 2025
+|3,0,7,1,1,0,1748530542,".git/                                           0 Thu May 29 14:54:15 2025"
+"8	LINE	0
+	../                                             0 Thu May 29 14:55:30 2025
+|3,0,8,1,1,0,1748530542,"../                                             0 Thu May 29 14:55:30 2025"
+"9	LINE	0
+	./                                              0 Thu May 29 14:55:30 2025
+|3,0,9,1,1,0,1748530542,"./                                              0 Thu May 29 14:55:30 2025"
 
 # File marks:
-'0  1  0  ~/App_project/status
-|4,48,1,0,1748398545,"~/App_project/status"
-'1  5  48  ~/App_project/file.txt
-|4,49,5,48,1748398531,"~/App_project/file.txt"
-'2  3  50  ~/App_project/firstapp.txt
-|4,50,3,50,1748397640,"~/App_project/firstapp.txt"
-'3  3  81  ~/App_project/teamwork.sh
-|4,51,3,81,1748396695,"~/App_project/teamwork.sh"
-'4  40  0  /var/www/html/index.html
-|4,52,40,0,1744938693,"/var/www/html/index.html"
-'5  40  0  /var/www/html/index.html
-|4,53,40,0,1744938320,"/var/www/html/index.html"
+'0  4  49  ~/segunn/README.md
+|4,48,4,49,1748530770,"~/segunn/README.md"
+'1  8  0  /
+|4,49,8,0,1748530699,"/"
+'2  4  49  ~/segunn/README.md
+|4,50,4,49,1748530612,"~/segunn/README.md"
+'3  1  0  ~/App_project/status
+|4,51,1,0,1748398545,"~/App_project/status"
+'4  5  48  ~/App_project/file.txt
+|4,52,5,48,1748398531,"~/App_project/file.txt"
+'5  3  50  ~/App_project/firstapp.txt
+|4,53,3,50,1748397640,"~/App_project/firstapp.txt"
+'6  3  81  ~/App_project/teamwork.sh
+|4,54,3,81,1748396695,"~/App_project/teamwork.sh"
+'7  40  0  /var/www/html/index.html
+|4,55,40,0,1744938693,"/var/www/html/index.html"
+'8  40  0  /var/www/html/index.html
+|4,56,40,0,1744938320,"/var/www/html/index.html"
 
 # Jumplist (newest first):
+-'  4  49  ~/segunn/README.md
+|4,39,4,49,1748530770,"~/segunn/README.md"
+-'  8  0  /
+|4,39,8,0,1748530699,"/"
+-'  8  0  /
+|4,39,8,0,1748530699,"/"
+-'  29  0  /
+|4,39,29,0,1748530695,"/"
+-'  1  0  /
+|4,39,1,0,1748530695,"/"
+-'  29  0  /
+|4,39,29,0,1748530695,"/"
+-'  1  0  /
+|4,39,1,0,1748530695,"/"
+-'  8  0  /home
+|4,39,8,0,1748530685,"/home"
+-'  8  0  ~
+|4,39,8,0,1748530685,"~"
+-'  8  0  ~/segunn
+|4,39,8,0,1748530685,"~/segunn"
+-'  8  0  /home
+|4,39,8,0,1748530685,"/home"
+-'  8  0  ~
+|4,39,8,0,1748530685,"~"
+-'  8  0  ~/segunn
+|4,39,8,0,1748530685,"~/segunn"
+-'  1  0  ~/segunn
+|4,39,1,0,1748530671,"~/segunn"
+-'  1  0  ~/segunn
+|4,39,1,0,1748530671,"~/segunn"
+-'  4  49  ~/segunn/README.md
+|4,39,4,49,1748530612,"~/segunn/README.md"
+-'  4  49  ~/segunn/README.md
+|4,39,4,49,1748530612,"~/segunn/README.md"
+-'  1  0  ~/segunn
+|4,39,1,0,1748530544,"~/segunn"
+-'  1  0  ~/segunn
+|4,39,1,0,1748530544,"~/segunn"
+-'  1  0  ~/App_project/status
+|4,39,1,0,1748398545,"~/App_project/status"
+-'  1  0  ~/App_project/status
+|4,39,1,0,1748398545,"~/App_project/status"
+-'  1  0  ~/App_project/status
+|4,39,1,0,1748398545,"~/App_project/status"
+-'  1  0  ~/App_project/status
+|4,39,1,0,1748398545,"~/App_project/status"
+-'  1  0  ~/App_project/status
+|4,39,1,0,1748398545,"~/App_project/status"
+-'  1  0  ~/App_project/status
+|4,39,1,0,1748398545,"~/App_project/status"
+-'  1  0  ~/App_project/status
+|4,39,1,0,1748398545,"~/App_project/status"
 -'  1  0  ~/App_project/status
 |4,39,1,0,1748398545,"~/App_project/status"
 -'  5  48  ~/App_project/file.txt
 |4,39,5,48,1748398531,"~/App_project/file.txt"
 -'  5  48  ~/App_project/file.txt
 |4,39,5,48,1748398531,"~/App_project/file.txt"
+-'  5  48  ~/App_project/file.txt
+|4,39,5,48,1748398531,"~/App_project/file.txt"
+-'  5  48  ~/App_project/file.txt
+|4,39,5,48,1748398531,"~/App_project/file.txt"
+-'  5  48  ~/App_project/file.txt
+|4,39,5,48,1748398531,"~/App_project/file.txt"
+-'  5  48  ~/App_project/file.txt
+|4,39,5,48,1748398531,"~/App_project/file.txt"
+-'  5  48  ~/App_project/file.txt
+|4,39,5,48,1748398531,"~/App_project/file.txt"
+-'  5  48  ~/App_project/file.txt
+|4,39,5,48,1748398531,"~/App_project/file.txt"
+-'  5  48  ~/App_project/file.txt
+|4,39,5,48,1748398531,"~/App_project/file.txt"
+-'  5  48  ~/App_project/file.txt
+|4,39,5,48,1748398531,"~/App_project/file.txt"
+-'  5  48  ~/App_project/file.txt
+|4,39,5,48,1748398531,"~/App_project/file.txt"
+-'  5  48  ~/App_project/file.txt
+|4,39,5,48,1748398531,"~/App_project/file.txt"
+-'  5  48  ~/App_project/file.txt
+|4,39,5,48,1748398531,"~/App_project/file.txt"
+-'  5  48  ~/App_project/file.txt
+|4,39,5,48,1748398531,"~/App_project/file.txt"
+-'  5  48  ~/App_project/file.txt
+|4,39,5,48,1748398531,"~/App_project/file.txt"
+-'  5  48  ~/App_project/file.txt
+|4,39,5,48,1748398531,"~/App_project/file.txt"
+-'  1  0  ~/App_project/file.txt
+|4,39,1,0,1748398449,"~/App_project/file.txt"
+-'  1  0  ~/App_project/file.txt
+|4,39,1,0,1748398449,"~/App_project/file.txt"
+-'  1  0  ~/App_project/file.txt
+|4,39,1,0,1748398449,"~/App_project/file.txt"
+-'  1  0  ~/App_project/file.txt
+|4,39,1,0,1748398449,"~/App_project/file.txt"
+-'  1  0  ~/App_project/file.txt
+|4,39,1,0,1748398449,"~/App_project/file.txt"
+-'  1  0  ~/App_project/file.txt
+|4,39,1,0,1748398449,"~/App_project/file.txt"
+-'  1  0  ~/App_project/file.txt
+|4,39,1,0,1748398449,"~/App_project/file.txt"
+-'  1  0  ~/App_project/file.txt
+|4,39,1,0,1748398449,"~/App_project/file.txt"
+-'  1  0  ~/App_project/file.txt
+|4,39,1,0,1748398449,"~/App_project/file.txt"
+-'  1  0  ~/App_project/file.txt
+|4,39,1,0,1748398449,"~/App_project/file.txt"
+-'  1  0  ~/App_project/file.txt
+|4,39,1,0,1748398449,"~/App_project/file.txt"
+-'  1  0  ~/App_project/file.txt
+|4,39,1,0,1748398449,"~/App_project/file.txt"
+-'  1  0  ~/App_project/file.txt
+|4,39,1,0,1748398449,"~/App_project/file.txt"
+-'  1  0  ~/App_project/file.txt
+|4,39,1,0,1748398449,"~/App_project/file.txt"
 -'  1  0  ~/App_project/file.txt
 |4,39,1,0,1748398449,"~/App_project/file.txt"
 -'  1  0  ~/App_project/file.txt
@@ -59,6 +203,62 @@
 |4,39,3,50,1748397640,"~/App_project/firstapp.txt"
 -'  3  50  ~/App_project/firstapp.txt
 |4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
+-'  3  50  ~/App_project/firstapp.txt
+|4,39,3,50,1748397640,"~/App_project/firstapp.txt"
 -'  1  0  ~/App_project/firstapp.txt
 |4,39,1,0,1748397610,"~/App_project/firstapp.txt"
 -'  1  0  ~/App_project/firstapp.txt
@@ -67,168 +267,32 @@
 |4,39,1,0,1748397610,"~/App_project/firstapp.txt"
 -'  1  0  ~/App_project/firstapp.txt
 |4,39,1,0,1748397610,"~/App_project/firstapp.txt"
--'  3  81  ~/App_project/teamwork.sh
-|4,39,3,81,1748396695,"~/App_project/teamwork.sh"
--'  3  81  ~/App_project/teamwork.sh
-|4,39,3,81,1748396695,"~/App_project/teamwork.sh"
--'  3  81  ~/App_project/teamwork.sh
-|4,39,3,81,1748396695,"~/App_project/teamwork.sh"
--'  3  81  ~/App_project/teamwork.sh
-|4,39,3,81,1748396695,"~/App_project/teamwork.sh"
--'  3  81  ~/App_project/teamwork.sh
-|4,39,3,81,1748396695,"~/App_project/teamwork.sh"
--'  3  81  ~/App_project/teamwork.sh
-|4,39,3,81,1748396695,"~/App_project/teamwork.sh"
--'  3  81  ~/App_project/teamwork.sh
-|4,39,3,81,1748396695,"~/App_project/teamwork.sh"
--'  3  81  ~/App_project/teamwork.sh
-|4,39,3,81,1748396695,"~/App_project/teamwork.sh"
--'  1  0  ~/App_project/teamwork.sh
-|4,39,1,0,1748396618,"~/App_project/teamwork.sh"
--'  1  0  ~/App_project/teamwork.sh
-|4,39,1,0,1748396618,"~/App_project/teamwork.sh"
--'  1  0  ~/App_project/teamwork.sh
-|4,39,1,0,1748396618,"~/App_project/teamwork.sh"
--'  1  0  ~/App_project/teamwork.sh
-|4,39,1,0,1748396618,"~/App_project/teamwork.sh"
--'  1  0  ~/App_project/teamwork.sh
-|4,39,1,0,1748396618,"~/App_project/teamwork.sh"
--'  1  0  ~/App_project/teamwork.sh
-|4,39,1,0,1748396618,"~/App_project/teamwork.sh"
--'  1  0  ~/App_project/teamwork.sh
-|4,39,1,0,1748396618,"~/App_project/teamwork.sh"
--'  1  0  ~/App_project/teamwork.sh
-|4,39,1,0,1748396618,"~/App_project/teamwork.sh"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938693,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  40  0  /var/www/html/index.html
-|4,39,40,0,1744938320,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
--'  1  0  /var/www/html/index.html
-|4,39,1,0,1744938309,"/var/www/html/index.html"
+-'  1  0  ~/App_project/firstapp.txt
+|4,39,1,0,1748397610,"~/App_project/firstapp.txt"
+-'  1  0  ~/App_project/firstapp.txt
+|4,39,1,0,1748397610,"~/App_project/firstapp.txt"
+-'  1  0  ~/App_project/firstapp.txt
+|4,39,1,0,1748397610,"~/App_project/firstapp.txt"
+-'  1  0  ~/App_project/firstapp.txt
+|4,39,1,0,1748397610,"~/App_project/firstapp.txt"
+-'  1  0  ~/App_project/firstapp.txt
+|4,39,1,0,1748397610,"~/App_project/firstapp.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/segunn/README.md
+	*	1748530761	0
+	"	4	49
+	^	4	50
+	.	4	49
+	+	4	49
+
+> ~/segunn
+	*	1748530683	0
+	"	8	0
+	.	8	0
+	+	1	0
+	+	8	0
 
 > ~/App_project/status
 	*	1748398543	0
